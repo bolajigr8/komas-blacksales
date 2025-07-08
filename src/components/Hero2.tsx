@@ -191,7 +191,7 @@ export default function Hero() {
                   }}
                   onClick={() =>
                     (window.location.href =
-                      '/https://komas-marketplace.vercel.app/sign-up?callbackUrl=%2F')
+                      'https://komas-marketplace.vercel.app/sign-up?callbackUrl=%2F')
                   }
                 >
                   Shop at 30% discount | Register

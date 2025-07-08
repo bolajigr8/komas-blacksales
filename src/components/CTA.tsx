@@ -61,7 +61,7 @@ export default function FinalCTA() {
           }}
           onClick={() => {
             window.location.href =
-              '/https://komas-marketplace.vercel.app/sign-up?callbackUrl=%2F'
+              'https://komas-marketplace.vercel.app/sign-up?callbackUrl=%2F'
           }}
         >
           REGISTER NOW TO ACCESS 30% Off 
