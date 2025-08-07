@@ -61,7 +61,7 @@ export default function InfluencerPage() {
                   />
 
                   <StaggeredText
-                    text='KOMAS500 WHOLESALE FASHION'
+                    text='KOMAS500 WHOLESALE COSMETICS'
                     el='h2'
                     className='text-xl sm:text-2xl lg:text-2xl xl:text-3xl font-bold text-white/90 tracking-wider'
                   />
@@ -71,7 +71,7 @@ export default function InfluencerPage() {
                 <div className='mb-10 lg:mb-6'>
                   <p className='text-lg sm:text-xl lg:text-xl text-white/80 leading-relaxed'>
                     Join our exclusive influencer program and start earning by
-                    promoting premium fashion content
+                    promoting premium cosmetics content
                   </p>
                 </div>
 

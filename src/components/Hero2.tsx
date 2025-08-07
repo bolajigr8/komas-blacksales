@@ -115,7 +115,7 @@ export default function Hero() {
                 <StaggeredText
                   // text={['KOMAS500', 'GLOBAL']}
                   text={[
-                    'Shop Fashion at 30% OFF + Campus Pickup in Uniport, Port Harcourt',
+                    'Shop Cosmetics at 30% OFF + Campus Pickup in Uniport, Port Harcourt',
                   ]}
                   el='h1'
                   duration={0.6}

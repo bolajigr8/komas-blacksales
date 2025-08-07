@@ -38,12 +38,12 @@ export default function InfluencerSection() {
 
               <h3 className='text-3xl md:text-4xl lg:text-4xl xl:text-5xl font-bold mb-6 text-white transition-all duration-300 ease-in-out'>
                 Become a <span className='text-yellow-400'>Komas500</span>{' '}
-                Fashion Influencer
+                Cosmetics Influencer
               </h3>
 
               <p className='text-xl lg:text-xl xl:text-2xl mb-8 max-w-2xl mx-auto lg:mx-0 text-white/90 leading-relaxed transition-all duration-300 ease-in-out'>
                 Join the first 300 influencers to enjoy exclusive accessto
-                wholesale fashion deals, get custom promo codes, earn
+                wholesale cosmetics deals, get custom promo codes, earn
                 commissions, and have a chance to advance to our brand
                 ambassador
               </p>
@@ -82,7 +82,7 @@ export default function InfluencerSection() {
                   <li className='flex items-center gap-2'>
                     <span className='w-2 h-2 bg-yellow-400 rounded-full'></span>
                     <span className='text-base lg:text-base xl:text-lg transition-all duration-300 ease-in-out'>
-                      Access exclusive wholesale fashion deals
+                      Access exclusive wholesale cosmetics deals
                     </span>
                   </li>
                 </ul>
